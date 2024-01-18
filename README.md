@@ -1,0 +1,1 @@
+This repository contains my solutions to the exercises developed in the Udacity course Intro to Tensorflow for Deep Learning
